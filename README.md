@@ -128,4 +128,7 @@ What was the number of orders secured by Kevin in June 2019?
 
 7. Create Renewable Energy Dashboard 
 
+**Solution** :
+<a href="https://github.com/ochoa-jessica/MS_Excel/blob/main/Excel_Data_Visualization/Renewable_Energy_Dashboard_2019.xlsm">Excel Data Visualization 2019 Renewable Energy Solution</a></li></p>
+
 ![2019 Renewable Energy Dashboard](2019_Renewable_Energy_Dashboard.png)
