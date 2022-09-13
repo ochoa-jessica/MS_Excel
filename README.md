@@ -14,4 +14,6 @@
 9. Since the wings are West and North, which have different numbers of characters, we cannot hard code the number 4. We will need to use a formula that changes with the wing.
 10. We would like to return the full word of the wing. What formula will give the desired result?
 11. There are a few names that need to be cleaned up. Bob Decker (row 22) has an unusual character at the end of his name. What is the code for this character?
-12. Which function or functions could you use to remove this unwanted character
+12. Which function or functions could you use to remove this unwanted character?
+
+## Part 2 - Excel Data Visualization 
