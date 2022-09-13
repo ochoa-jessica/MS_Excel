@@ -56,3 +56,56 @@
 
 
 ## Part 2 - Excel Data Visualization 
+
+### Final Assessment
+
+**Purpose & Context** :
+<p>You have been asked by a xyz business company to generate summary sales data dashboard by sales person and for month 2019.</p>
+
+**Analysis** :
+1. Add a conditional format to the data in C5:N13 to show the top 5%. Which salespeople achieved a monthly sales total in the top 5%?
+
+2. Select the data in A5:O13 and add a Conditional format rule that will highlight the whole row (in any colour you choose) where the salesperson's name matches the selection in B15. 
+
+3. Apply custom number formatting to the data in P5:P13 so that if the number is >0 it shows as a white star and otherwise leaves the cell blank. 
+
+4. In Q5 insert a Column Sparkline to visualise the data in C5:N5. Copy the sparkline down to Q13. 
+
+5. Have a look at the chart titled Sales May-Oct 2019.
+
+6. The chart titled Sales May-Oct 2019 is showing the monthly sales for two salespeople, but it is difficult to see which ones. Turn on the legend (show at bottom). Which two salespeople are represented in this chart?
+
+7. The chart titled Sales May-Oct 2019 is missing the Horizontal Axis Labels. How can we fix this?
+
+8. In the chart Sales May-Oct 2019 select the line series and add a trendline to it. Show the R-Squared value and try out some of the different trendline options. Which one returns the highest R-Squared value?
+
+9. A series has been added to Sales by Region but it is not currently picking up the correct values. Update the series to use the relevant data in A38:D58.
+
+10. The chart Sales by Region is still not quite right because the horizontal axis is not aligning correctly to the map. The values need to be changed to Min -180 and Max 180. 
+
+11. Go to the Data sheet which contains all the orders received for 2019 and 2020. You need to find out the total value of orders placed for each month in 2019. Insert a PivotTable called pvtSalesByMonth in a new sheet. Add Order Month to Rows, Extended Price to Values, and Order Year to Columns. What was the Total value of orders for March 2019?
+
+12. Change pvtSalesByMonth to show the number of orders by year and month. How many orders were placed in June 2020?
+
+13. Make the following changes pvtSalesByMonth:
+Move Order Year to the Filter section and filter to show data for 2019
+Move Salesperson to the Filter section and filter to show data for Kevin Stroud.
+What was the number of orders secured by Kevin in June 2019?
+
+14. Create a Line PivotChart to represent the data in pvtSalesByMonth. Change the title to Orders by Month. 
+
+15. Each salesperson has a target of 10 orders per month. We would like to show how their monthly order totals compare to their target in the chart we just created. To do this we will need to add another column to our pivot table that contains the value 10 for each month. How do we do this?
+
+16. Copy and Paste the chart into the Dashboard sheet. Move it so it sits over South America and Africa and then turn off the title and set the Fill and Border to Nothing.
+
+17. Create a new PivotTable in a new sheet called pvtSalesByQuarter to show the total sales (extended price) by Quarter. Add Order Year and Salesperson to the Filter area and filter the Pivot to only show Kevin Stroud's sales for 2019. What were his total sales for Quarter 3?
+
+18. Create a Donut PivotChart to visualise the data in pvtSalesByQuarter. Move the chart to the Dashboard sheet and position it to the right of the other chart. Turn off legend, chart title, field buttons, fill colour and outline. Turn on data labels to show the Quarter and % (with no decimal places). What % of sales did Quarter 4 comprise?
+
+19. We would like our Dashboard to be interactive. In the space on the left add two slicers, one for Order Year and one for Salesperson. Link both slicers to all the PivotTables.
+
+**Solution** :
+<a href="https://github.com/ochoa-jessica/MS_Excel/blob/main/Excel_Data_Visualization/Excel_Visualization_Final_Assessment.xlsx">Excel Final Assessment Solution</a></li></p>
+
+![2019 Sales Dashboard]()
+
