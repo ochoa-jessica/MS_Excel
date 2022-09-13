@@ -4,13 +4,13 @@
 
 ### Final Assessment
 
-Purpose :
+**Purpose** :
 <p>You have been asked by a school to help automate their accounts processing.</p>
 
-Context :
+**Context** :
 <p>Every few days they receive a text file from the bank detailing payments received (BPAY sheet). This information must be matched to the system data that has been downloaded into Excel (SYS DATA sheet) and a report produced that will be uploaded to the school system.</p>
 
-Analysis :
+**Analysis** :
 1. Go to the Upload sheet (this is where all calculations are to be done). You will see that the BpayReference has already been populated. The next column needs to contain the TransactionReference, which is made up of the MERCHANT, followed by the SETTLEMENT DATE, followed by the MERCHANT REFERENCE from the BPAY Bank File sheet, with no space between them, e.g. ANB20201002120026834. Create a calculation in B2 that will join these values together and then copy the formula down. What is the value of Check Digit 1 in cell T13?
 
 2. Using Excel 2019, the problem in question 1 could have been solved using which of the following: (Multiple answers may apply.)
@@ -51,7 +51,7 @@ Analysis :
 
 20. A valid solution for Question 19 could be achieved using which of the following combinations of functions? (Multiple answers may be correct.)
 
-Solution :
+**Solution** :
 <a href="https://github.com/ochoa-jessica/MS_Excel/blob/main/Excel_Fundamentals_Data_Science/Final_Assessment_Excel_Fundamentals_Data_Science.xlsx">Excel Final Assessment Solution</a></li></p>
 
 
