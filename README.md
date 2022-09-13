@@ -128,4 +128,4 @@ What was the number of orders secured by Kevin in June 2019?
 
 7. Create Renewable Energy Dashboard 
 
-![2019 Renewable Energy Dashboard]()
+![2019 Renewable Energy Dashboard](2019_Renewable_Energy_Dashboard.png)
