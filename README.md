@@ -4,8 +4,11 @@
 
 ### Final Assessment
 
+Purpose :
+<p>You have been asked by a school to help automate their accounts processing.</p>
+
 Context :
-<p>You have been asked by a school to help automate their accounts processing. Every few days they receive a text file from the bank detailing payments received (BPAY sheet). This information must be matched to the system data that has been downloaded into Excel (SYS DATA sheet) and a report produced that will be uploaded to the school system.</p>
+<p>Every few days they receive a text file from the bank detailing payments received (BPAY sheet). This information must be matched to the system data that has been downloaded into Excel (SYS DATA sheet) and a report produced that will be uploaded to the school system.</p>
 
 Analysis :
 1. Go to the Upload sheet (this is where all calculations are to be done). You will see that the BpayReference has already been populated. The next column needs to contain the TransactionReference, which is made up of the MERCHANT, followed by the SETTLEMENT DATE, followed by the MERCHANT REFERENCE from the BPAY Bank File sheet, with no space between them, e.g. ANB20201002120026834. Create a calculation in B2 that will join these values together and then copy the formula down. What is the value of Check Digit 1 in cell T13?
