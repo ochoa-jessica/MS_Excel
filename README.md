@@ -52,7 +52,7 @@
 20. A valid solution for Question 19 could be achieved using which of the following combinations of functions? (Multiple answers may be correct.)
 
 **Solution** :
-<a href="https://github.com/ochoa-jessica/MS_Excel/blob/main/Excel_Fundamentals_Data_Science/Final_Assessment_Excel_Fundamentals_Data_Science.xlsx">Excel Final Assessment Solution</a></li></p>
+<a href="https://github.com/ochoa-jessica/MS_Excel/blob/main/Excel_Fundamentals_Data_Science/Final_Assessment_Excel_Fundamentals_Data_Science.xlsx">Excel Fundamentals for Data Science Final Assessment Solution</a></li></p>
 
 
 ## Part 2 - Excel Data Visualization 
@@ -105,7 +105,7 @@ What was the number of orders secured by Kevin in June 2019?
 19. We would like our Dashboard to be interactive. In the space on the left add two slicers, one for Order Year and one for Salesperson. Link both slicers to all the PivotTables.
 
 **Solution** :
-<a href="https://github.com/ochoa-jessica/MS_Excel/blob/main/Excel_Data_Visualization/Excel_Visualization_Final_Assessment.xlsx">Excel Final Assessment Solution</a></li></p>
+<a href="https://github.com/ochoa-jessica/MS_Excel/blob/main/Excel_Data_Visualization/Excel_Visualization_Final_Assessment.xlsx">Excel Data Visualization Final Assessment Solution</a></li></p>
 
 ![2019 Sales Dashboard](2019_Sales_Dashboard.png)
 
