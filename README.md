@@ -107,5 +107,5 @@ What was the number of orders secured by Kevin in June 2019?
 **Solution** :
 <a href="https://github.com/ochoa-jessica/MS_Excel/blob/main/Excel_Data_Visualization/Excel_Visualization_Final_Assessment.xlsx">Excel Final Assessment Solution</a></li></p>
 
-![2019 Sales Dashboard]()
+![2019 Sales Dashboard](2019_Sales_Dashboard.png)
 
