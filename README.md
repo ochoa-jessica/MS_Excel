@@ -109,3 +109,23 @@ What was the number of orders secured by Kevin in June 2019?
 
 ![2019 Sales Dashboard](2019_Sales_Dashboard.png)
 
+### Excel Data Visualization Exercise : Renewable Energy Data 2019
+
+1. What is the breakdown of electricity capacity from renewable, RE, versus non-renewable, NONRE, technologies ? 
+
+2. What percentage of capacity is made up of non-renewable versus renewable for each region ?
+
+3. Find out the total investment in renewable energy by year ?
+
+4. Filtering in Pivot Tables :
+- Total Investment in 2001 for Argentina and Brazil?
+- Investment in all countries beginning with b for 2015 and onwards ?
+- What were the top five recipient countries for 2010?
+
+5. Create separate reports for year 2000, 2010, and 2017.
+
+6. Get a snapshot of what the investment amount would look like in Australian dollars ?
+
+7. Create Renewable Energy Dashboard 
+
+![2019 Renewable Energy Dashboard]()
