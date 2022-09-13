@@ -48,7 +48,8 @@ Analysis :
 
 20. A valid solution for Question 19 could be achieved using which of the following combinations of functions? (Multiple answers may be correct.)
 
-<a href="https://github.com/ochoa-jessica/MS_Excel/blob/main/Excel_Fundamentals_Data_Science/Final_Assessment_Excel_Fundamentals_Data_Science.xlsx">Excel Solution</a></li></p>
+Solution :
+<a href="https://github.com/ochoa-jessica/MS_Excel/blob/main/Excel_Fundamentals_Data_Science/Final_Assessment_Excel_Fundamentals_Data_Science.xlsx">Excel Final Assessment Solution</a></li></p>
 
 
 ## Part 2 - Excel Data Visualization 
